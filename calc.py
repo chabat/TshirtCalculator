@@ -7,4 +7,5 @@ def reverse_print(s):
 
 coisa = "A SETRING"
 print(reverse_print(coisa))
-        
+
+
