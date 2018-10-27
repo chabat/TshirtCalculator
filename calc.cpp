@@ -21,4 +21,5 @@ int main(void){
   }
   //Print the result here
     printf(ans);
+    return 0;
 }
