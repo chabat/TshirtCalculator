@@ -4,12 +4,12 @@ int main(void){
   int a, b, ans;
   char op;
 
-  scanf("%d %c %d");
+  scanf("%d %c %d", &a, &b);
   switch (op){
-  case '+': break; // + Logic here
-  case '-': break; // - Logic here
-  case '*': break; // * Logic here
-  case '/': break; // / Logic here
+    case '+': break; // + Logic here
+    case '-': break; // - Logic here
+    case '*': break; // * Logic here
+    case '/': break; // / Logic here
   }
   //Print the result here
 }
