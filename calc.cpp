@@ -6,10 +6,19 @@ int main(void){
 
   scanf("%d %c %d", &a, &b, &opt);
   switch (op){
-    case '+': break; // + Logic here
-    case '-': break; // - Logic here
-    case '*': break; // * Logic here
-    case '/': break; // / Logic here
+    case '+':
+       ans = a + b ;
+        break; // + Logic here
+    case '-':
+       ans = a - b; 
+        break; // - Logic here
+    case '*':
+        ans = a * b;
+        break; // * Logic here
+    case '/': 
+        ans = a / b;
+        break; // / Logic here
   }
   //Print the result here
+    printf(ans);
 }
