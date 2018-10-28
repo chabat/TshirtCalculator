@@ -1,5 +1,8 @@
 # TshirtCalculator
 Calculating our chances to get a free t-shirt :P
 
-# Contributors
+## Desc
+Silly Calculator code
+
+## Contributors
 -Lovegod
